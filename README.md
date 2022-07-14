@@ -1,2 +1,2 @@
-# Sakai-Integration
-It is source code of API for integration with lms SAKAI LMS with CMS of FAST NU
+# Sakai
+SLATE is the University’s central collaboration and learning management system. It provides an online space where students access learning resources within course sites, participate in online activities, and communicate with faculty, staff and other students. All courses offered by the University have a corresponding course website. SLATE also contains community websites which are used to support a range of other teaching and learning activities.
